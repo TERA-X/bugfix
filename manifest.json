@@ -1,0 +1,28 @@
+{
+    "files": {
+        "index.js": "2210b719a84086b1c5ddfe72fca46abbb7bab0cb4aae6d683781d6da4e9a648b",
+        "lib/chat-sanitizer.js": "0117ffca404691539dbe041bfe9bc51b00aafa55d87f8053728231864491de72",
+        "lib/grownAbnormals.js": "90a24515b9f5d2c5b8ff8556e7134bf139b84d874d164133924b7b6b2c2df2da",
+        "lib/private-channel-fix.js": "4c2f81520db86f0398e8b92523f2608cbd21193344319470c93190e816c47295",
+        "lib/pve-fixes.js": "239a146b0d87b41b351f90fb94fc2e1c621d1722e40d66ca54592d4c2079265c",
+        "lib/swim-fix.js": "30dadfa58eaa4057e41a6e5139f8f793da9b793885753356b120bdabeaeae12a",
+        "module.json": "4b8893b4f8671d5db404a6cdf7f0afedae4e484c02dabb69653b7e6ae3ba4c04"
+    },
+    "defs": {
+        "C_PLAYER_LOCATION": 5,
+        "S_ABNORMALITY_BEGIN": ["*",4],
+        "S_ABNORMALITY_END": "*",
+        "S_ABNORMALITY_REFRESH": "*",
+        "S_ACTION_STAGE": 9,
+        "S_BOSS_GAGE_INFO": "*",
+        "S_CHAT": 3,
+        "S_DESPAWN_NPC": 3,
+        "S_JOIN_PRIVATE_CHANNEL": "raw",
+        "S_LOAD_TOPO": "raw",
+        "S_LOGIN": "event",
+        "S_PRIVATE_CHAT": 1,
+        "S_REPLY_CLIENT_CHAT_OPTION_SETTING": "event",
+        "S_SPAWN_NPC": 11,
+        "S_WHISPER": 3
+    }
+}
